@@ -217,10 +217,10 @@ f1 pit stop/
 ## API Screenshots
 
 ### API Root Endpoint (`/`)
-![API Root Endpoint](images/Screenshot 2025-06-24 053650.png)
+![API Root Endpoint](images/get.png)
 
 ### API Documentation (`/docs`) with an example of a prediction
-![API Docs](images/Screenshot 2025-06-24 054354.png)
+![API Docs](images/post.png)
 
 
 
